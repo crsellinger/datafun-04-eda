@@ -24,7 +24,5 @@ py -m pip install -r requirements.txt
 **Running**
 
 Select Jupyter Notebook file.
-
 In the top right corner, Select Kernel > Python environments... > virtual environment > Run All.
-
 You can run individual cells of code by clicking the play button in the top right when you hover over a cell of code.
